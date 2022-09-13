@@ -12,7 +12,7 @@ Then:
 
 ```kotlin
 dependencies {
-    implementation("rip.hippo:Doctor:1.0.0")
+    implementation("rip.hippo:Doctor:1.0.1")
 }
 ```
 
